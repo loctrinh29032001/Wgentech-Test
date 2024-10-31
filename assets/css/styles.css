@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+     font-style: 1.6rem;
+     font-family: "Lato", serif;
+}
+
+input, textarea, select, button {
+    font-style: inherit;
+    font-family: inherit;
+}
